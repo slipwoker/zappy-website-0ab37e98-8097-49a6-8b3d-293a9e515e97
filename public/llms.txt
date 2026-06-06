@@ -1,0 +1,101 @@
+# Multiple Mobile Shop — Generative Engine Optimization Map
+
+> A next-generation premium multi-brand mobile store designed to feel like a digital luxury lounge. The experience is built around mind-relaxing aesthetics, fluid 3D animations, and a high-end UX that mirrors the sophistication of a luxury tech magazine. Each brand gets its own signature ambient glow and visual identity — gold for Apple, cosmic blue/silver for Samsung — creating a personalized, immersive atmosphere. The store blends magnetic micro-interactions, specs-reveal scroll transitions, and a frictionless checkout flow to transform browsing into a deeply pleasurable, conversion-optimized journey.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Step into a luxury mobile experience where finding your perfect Samsung meets immersive 3D design. Explore the latest mobiles at the best prices online in a calming, conversion-optimized space.
+
+### Experience
+https://example.com/experience
+Dive into our signature mobile experience where Samsung Gaming Hub meets fluid 3D animations. Discover how specs-reveal scrolls and magnetic micro-interactions make browsing a pleasure.
+
+### About
+https://example.com/about
+We built a next-gen multi-brand store where Apple glows gold and Samsung radiates cosmic blue. Learn how our luxury tech magazine aesthetic redefines online mobile purchase forever.
+
+### Contact
+https://example.com/contact
+Ready to find your mobile Samsung at the best price? Reach out and let our luxury support team guide you through a seamless, pleasure-driven checkout experience today.
+
+### Products
+https://example.com/products
+Our Products - Multiple Mobile Shop
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Multiple Mobile Shop
+
+### Category
+https://example.com/category/:slug
+Products - Multiple Mobile Shop
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Multiple Mobile Shop
+A next-generation premium multi-brand mobile store designed to feel like a digital luxury lounge. The experience is built around mind-relaxing aesthetics, fluid 3D animations, and a high-end UX that mirrors the sophistication of a luxury tech magazine. Each brand gets its own signature ambient glow and visual identity — gold for Apple, cosmic blue/silver for Samsung — creating a personalized, immersive atmosphere. The store blends magnetic micro-interactions, specs-reveal scroll transitions, and a frictionless checkout flow to transform browsing into a deeply pleasurable, conversion-optimized journey.
+
+## Target Audience
+- luxury tech enthusiasts and premium mobile buyers
+- Luxury Tech Enthusiasts
+- Premium Mobile Buyers
+- Corporate Executives
+
+## Industry
+E-commerce / Consumer Electronics
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
